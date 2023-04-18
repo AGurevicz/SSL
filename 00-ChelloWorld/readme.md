@@ -1,1 +1,1 @@
-Compilador: MSYS2 MINGW32
+Compilador: MSYS2 MINGW64
