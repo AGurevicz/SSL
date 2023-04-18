@@ -1,1 +1,1 @@
-Compilador: MSYS2 MINGW64
+Compilador: Windows PowerShell
