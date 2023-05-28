@@ -1,1 +1,1 @@
-Compilador: Windows PowerShell
+Compilador: MinGW32
